@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Hostick - Web Hosting HTML Template</title>
+        <title>Kadztech software services - Contact us</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Premium Bootstrap 4 Landing Page Template" />
         <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
@@ -160,72 +160,6 @@
 
         <!-- Footer End -->
         <?php include "./php/components/Footer.php"?>
-
-        <!-- Login Modal Content Start -->
-        <div class="modal fade" id="LoginForm" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
-                <div class="modal-content rounded shadow border-0">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalCenterTitle">Login </h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <form class="login-form">
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="form-group position-relative">
-                                        <label>Your Email <span class="text-danger">*</span></label>
-                                        <input type="email" class="form-control" name="email" required="" placeholder="Your Email :">
-                                    </div>
-                                </div><!--end col-->
-
-                                <div class="col-12">
-                                    <div class="form-group position-relative">
-                                        <label>Password <span class="text-danger">*</span></label>
-                                        <input type="password" class="form-control" required="" placeholder="Password :">
-                                    </div>
-                                </div><!--end col-->
-
-                                <div class="col-12">
-                                    <div class="d-flex justify-content-between">
-                                        <div class="form-group d-inline-block">
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck1">
-                                                <label class="custom-control-label" for="customCheck1">Remember me</label>
-                                            </div>
-                                        </div>
-                                        <p class="forgot-pass mb-0"><a href="page-forgot-password.html" class="text-dark font-weight-bold">Forgot password ?</a></p>
-                                    </div>
-                                </div><!--end col-->
-                                <div class="col-12 mb-0">
-                                    <button class="btn btn-primary w-100">Sign in</button>
-                                </div><!--end col-->
-                                <div class="col-12 mt-4 text-center">
-                                    <h6 class="mb-0">Or Login With</h6>
-                                </div>
-
-                                <div class="col-12">
-                                    <div class="row">
-                                        <div class="col-sm-6 mt-4">
-                                            <a href="#" class="btn btn-block btn-light bg-facebook"><i class="mdi mdi-facebook"></i> Facebook</a>
-                                        </div>
-                                        <div class="col-sm-6 mt-4">
-                                            <a href="#" class="btn btn-block btn-light"><i class="mdi mdi-google"></i> Google</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <p class="mb-0 mt-3"><small class="text-dark mr-2">Don't have an account ?</small> <a href="page-signup.html" class="text-dark font-weight-bold">Sign Up</a></p>
-                                </div><!--end col-->
-                            </div><!--end row-->
-                        </form><!--end form-->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Login Modal Content End -->
 
         
 

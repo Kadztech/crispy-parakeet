@@ -14,5 +14,7 @@
             "email": "dev.chomba@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "sendgrid/sendgrid": "^7.9"
+    }
 }
