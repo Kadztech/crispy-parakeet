@@ -1,0 +1,18 @@
+{
+    "name": "devch/kadztech-software",
+    "description": "kadztech software services webaite",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devch\\KadztechSoftware\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chomba Chanda",
+            "email": "dev.chomba@gmail.com"
+        }
+    ],
+    "require": {}
+}
