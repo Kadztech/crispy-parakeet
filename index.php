@@ -236,7 +236,9 @@
                             </div>
                             <div class="card-body p-0 content">
                                 <h5 class="mb-3"><a href="hosting-reseller.html" class="title text-dark">Digital marketing</a></h5>
-                                <p class="text-muted mb-3">We provide cloud based enterprise hosting, server and storage solutions of unmatched quality.</p>
+                                <p class="text-muted mb-3">
+                                With a custom strategy, plus data-driven insights from IBM Watson and Google AI, we'll help your business impact the metrics that matter most, from traffic to revenue.
+                                </p>
                                 <!-- <a href="hosting-reseller.html" class="text-primary">Read More <i data-feather="chevron-right" class="fea icon-sm"></i></a> -->
                             </div>
                         </div>
