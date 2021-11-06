@@ -36,6 +36,7 @@
                     <li class="has-submenu">
                             <a href="./index.php">Home</a>
                         </li> 
+                        <li><a href="works.php">Works</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>

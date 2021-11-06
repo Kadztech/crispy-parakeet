@@ -341,7 +341,41 @@
                 </div>
             </div> -->
 
-            
+            <div class="container py-4">
+            <div class="row justify-content-center">
+                    <div class="col-12">
+                        <div class="section-title text-center mb-4 pb-2">
+                            <h4 class="title mb-3">Who we've worked with</h4>
+                            <!-- <p class="text-muted para-desc mx-auto mb-0">Create, collaborate, and turn your ideas into incredible products with the definitive platform for digital design.</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                        <img src="images/client/amazon.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div><!--end col-->
+
+                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                        <img src="images/client/google.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                        <img src="images/client/lenovo.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                        <img src="images/client/paypal.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                        <img src="images/client/shopify.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                        <img src="images/client/spotify.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
 
                 <div class="row mt-5 pt-4 justify-content-center">
                     <div class="col-12 text-center">
@@ -355,7 +389,25 @@
             </div><!--end container-->
         </section><!--end section-->
         <!-- CLient and faq End -->
-
+        <section class="py-md-4 py-5 bg-primary">
+            <div class="container">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-lg-6 col-md-6 col-12 text-center text-md-left">
+                        <h4 class="text-white mb-0">Start Building Your Website Today!</h4>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-12 mt-4 mt-sm-0 text-center">
+                        <div class="d-flex justify-content-center">
+                            <span class="h6 text-white-50 mb-0 mt-2">K</span>
+                            <span class="price text-light h1 mb-0">500</span>
+                            <span class="h6 text-white-50 align-self-end mb-1">/month</span>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-12 mt-4 mt-sm-0 text-center text-md-right">
+                        <a href="mailto:careers@kadztech.com" class="btn btn-warning">Get Started</a>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- footer -->
         <?php include "./php/components/Footer.php"?>
         
