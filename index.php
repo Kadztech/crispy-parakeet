@@ -345,35 +345,47 @@
             <div class="row justify-content-center">
                     <div class="col-12">
                         <div class="section-title text-center mb-4 pb-2">
-                            <h4 class="title mb-3">Who we've worked with</h4>
+                            <h4 class="title mb-3">Who we've worked On</h4>
                             <!-- <p class="text-muted para-desc mx-auto mb-0">Create, collaborate, and turn your ideas into incredible products with the definitive platform for digital design.</p> -->
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                        <img src="images/client/amazon.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    <a href="https://mveka.com/">
+
+                        <img src="images/client/mveka.png" class="avatar avatar-ex-sm" style="width: auto; height: 60px" alt="">
+                    </a>    
                     </div><!--end col-->
 
                     <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                        <img src="images/client/google.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    <a href="https://se.kadztech.com/">
+
+                        <img src="images/client/smootherrands.png" class="avatar avatar-ex-sm" style="width: auto; height: 60px" alt="">
+                    </a>    
                     </div><!--end col-->
                     
                     <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                        <img src="images/client/lenovo.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    <a href="https://kanu.kadztech.com/">
+
+                        <img src="images/client/kanu.png" class="avatar avatar-ex-sm" style="width: auto; height: 60px" alt="">
+                    </a>    
                     </div><!--end col-->
                     
-                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                        <img src="images/client/paypal.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
-                    </div><!--end col-->
+                    <!-- <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                    <a href="#!">
+
+                        <img src="images/client/kwacha-yako.png" class="avatar avatar-ex-sm" style="width: auto; height: 60px" alt="">
+                    </a>    
+                    </div> -->
                     
                     <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                        <img src="images/client/shopify.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
-                    </div><!--end col-->
+                        <img src="images/client/ehealth.png" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div>
                     
-                    <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                        <img src="images/client/spotify.svg" class="avatar avatar-ex-sm" style="width: auto;" alt="">
-                    </div><!--end col-->
+                    <!-- <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                        <img src="images/client/smootherrands.png" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    </div> -->
                 </div><!--end row-->
             </div><!--end container-->
 
