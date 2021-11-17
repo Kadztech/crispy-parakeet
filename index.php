@@ -380,7 +380,10 @@
                     </div> -->
                     
                     <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                        <img src="images/client/ehealth.png" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+                    <a href="http://ehealth.kadztech.com/">
+
+                    <img src="images/client/ehealth.png" class="avatar avatar-ex-sm" style="width: auto;" alt="">
+</a> 
                     </div>
                     
                     <!-- <div class="col-lg-2 col-md-2 col-6 text-center py-4">
