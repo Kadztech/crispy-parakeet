@@ -105,7 +105,7 @@
 
             <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                 <div class="card border-0 team overflow-hidden">
-                    <img src="images/client/03.jpeg" class="img-fluid rounded-pill" alt="">
+                    <img src="images/client/miyanda.jpeg" class="img-fluid rounded-pill" alt="">
                     <div class="card-body content pt-4 text-center">
                         <h5 class="mb-0">Miyanda Miyanda</h5>
                         <small class="text-muted">Founder / C.E.O</small>
@@ -116,7 +116,7 @@
 
             <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                 <div class="card border-0 team overflow-hidden">
-                    <img src="images/client/04.jpg" class="img-fluid rounded-pill" alt="">
+                    <img src="images/client/chomba.jpg" class="img-fluid rounded-pill" alt="">
                     <div class="card-body content pt-4 text-center">
                         <h5 class="mb-0">Chomba Chanda</h5>
                         <small class="text-muted">Founder / C.T.O</small>
